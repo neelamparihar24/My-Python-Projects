@@ -1,7 +1,9 @@
 # My-Python-Projects
 Python Projects
 **Bus Ticketing System | Python, Tkinter, MySQL, NumPy, Threading**
+
 🚌 Bus Ticketing System
+
 📌 Project Overview
 
 The Bus Ticketing System is a desktop-based application developed using Python, Tkinter, MySQL, and Threading. The system is designed to manage passenger details, seat availability and ticket booking
@@ -85,7 +87,7 @@ FOR UPDATE;
 
 The booking transaction then updates the seat availability before committing the transaction.
 
-🧵 Threading
+**🧵 Threading**
 
 Python's threading module is used to simulate or handle multiple booking requests.
 
@@ -154,3 +156,8 @@ Replace the database credentials with your own local MySQL configuration.
 The application provides a graphical user interface using Tkinter.
 
 Possible screens include:
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/ce2ec563-3248-4481-916f-bd93778e97d6" />
+
+
+
+
