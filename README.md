@@ -165,5 +165,28 @@ Possible screens include:
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/ce2ec563-3248-4481-916f-bd93778e97d6" />
 
 
+**Concepts Demonstrated**
+
+This project demonstrates practical knowledge of:
+
+Python Programming
+Object-Oriented Programming
+Tkinter GUI Development
+MySQL Database Design
+SQL Queries
+Python-MySQL Connectivity
+CRUD Operations
+Exception Handling
+Multithreading
+Race Conditions
+Thread Synchronization
+Locks / RLocks
+
+**💼 Project Highlights**
+
+This project demonstrates how Python can be combined with GUI development, relational databases, and concurrency control to build a practical real-world application.
+
+The implementation of thread synchronization and database locking makes the project particularly useful for demonstrating understanding of race conditions, transaction management, and data consistency.
+
 
 
