@@ -1,5 +1,6 @@
 # My-Python-Projects
 Python Projects
+
 **Bus Ticketing System | Python, Tkinter, MySQL, NumPy, Threading**
 
 🚌 Bus Ticketing System
@@ -24,6 +25,7 @@ Handle concurrent booking requests safely.
 Demonstrate Python database connectivity and multithreading concepts.
 
 **Technologies Used**
+
 Technology	Purpose
 Python	Application development
 Tkinter	Graphical User Interface
@@ -35,6 +37,7 @@ NumPy	Numerical/data processing where required
 OOP	Modular application design
 
 **Key Features**
+
 🚌 Bus Management
 Add bus details
 View available buses
@@ -49,6 +52,7 @@ Select available seats
 Book tickets
 Generate booking information
 Store booking details in MySQL
+
 **💺 Seat Management**
 
 The system maintains seat availability and updates the database after successful booking.
@@ -59,6 +63,7 @@ Seat 1  → Available
 Seat 2  → Booked
 Seat 3  → Available
 Seat 4  → Booked
+
 **🔒 Concurrent Seat Booking**
 
 One of the important technical features of this project is handling concurrent seat booking.
@@ -132,6 +137,7 @@ Booking
      ├── bus_name
      ├── seat_booked
      └── booking_time
+     
 🔌** MySQL Connectivity**
 
 Python connects to MySQL using mysql.connector.
